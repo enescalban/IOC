@@ -1,1 +1,2 @@
+http://localhost/IPreputation/manual_add.php
 https://security.microsoft.com/
